@@ -1,0 +1,20 @@
+Un ejemplo de un lenguaje de programación muy complejo y considerado de bajo nivel es **Malbolge**, conocido por su dificultad extrema para escribir y comprender código. Aquí tienes cómo escribir el famoso "Hola, Mundo" en Malbolge:
+
+```malbolge
+(='&%!:9]!<~@`gr"[}z62dE#\TMTWc0/*Q-+3:+*
+```
+
+### Explicación:
+- Malbolge fue diseñado específicamente para ser lo más complicado posible.
+- Incluso los programas más simples requieren una profunda comprensión del cifrado interno del lenguaje y su máquina virtual.
+- Es prácticamente imposible escribir un código funcional sin usar herramientas automatizadas que lo generen.
+
+El programa anterior imprime "Hello, World!" en la consola si se ejecuta en un intérprete de Malbolge. 
+
+Si quieres algo más accesible pero igual desafiante, podríamos explorar **Brainf**k**, otro lenguaje de programación intencionadamente complejo. Aquí está el código de "Hola, Mundo" en Brainf**k**:
+
+```brainfuck
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+```
+
+Ambos lenguajes destacan por su dificultad, pero Brainf**k** es ligeramente más comprensible que Malbolge. Si te interesa explorar más sobre estos lenguajes, puedo ayudarte a profundizar. 😊
